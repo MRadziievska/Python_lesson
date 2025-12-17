@@ -27,3 +27,4 @@ elif number == 9:
   print('Magic 8-Ball’s answer: Without a doubt')
 else:
   print('Error')
+  
